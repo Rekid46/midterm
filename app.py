@@ -100,7 +100,9 @@ def main():
    <div class="col-md-12">
    <center><p style="font-size:50px;color:white;margin-top:10px;">MID TERM - I EXAM 2020-21</p></center>
    <center><p style="font-size:35px;color:white;margin-top:10px;">NAME: Ranjan Singh</p></center>
-   <center><p style="font-size:30px;color:white;margin-top:0px;"> ~~PIET18CS120~~Sec: C-I~~Roll No 18/CS-C/10~~</p></center>
+   <center><p style="font-size:30px;color:white;margin-top:0px;">REG:PIET18CS120</p></center>
+   <center><p style="font-size:30px;color:white;margin-top:0px;">Sec: C-I</p></center>
+   <center><p style="font-size:30px;color:white;margin-top:0px;">Roll No 18/CS-C/10</p></center>
    </div>
    </div>
    </div>
