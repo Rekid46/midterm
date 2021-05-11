@@ -98,9 +98,9 @@ def main():
    <div class="" style="background-color:maroon;" >
    <div class="clearfix">
    <div class="col-md-12">
-   <center><p style="font-size:50px;color:white;margin-top:10px;">MID TERM - I</p></center>
-   <center><p style="font-size:35px;color:white;margin-top:10px;">NAME: SAGAR GYANCHANDANI</p></center>
-   <center><p style="font-size:30px;color:white;margin-top:0px;">|| PIET18CS127 || Sec: C || Roll No 16 ||</p></center>
+   <center><p style="font-size:50px;color:white;margin-top:10px;">MID TERM - I EXAM 2020-21</p></center>
+   <center><p style="font-size:35px;color:white;margin-top:10px;">NAME: Ranjan Singh</p></center>
+   <center><p style="font-size:30px;color:white;margin-top:0px;">|| PIET18CS120 || Sec: C-I || Roll No 18/CS-C/10 ||</p></center>
    </div>
    </div>
    </div>
